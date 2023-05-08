@@ -1,0 +1,2608 @@
+[09:54:30 27/01/1995]	21100117.txt 
+SpO2  	100 
+HR    	93 
+RESP  	19 
+ABP   	92	161	58 
+SpO2  	100 
+HR    	93 
+RESP  	19 
+ABP   	94	161	57 
+SpO2  	100 
+HR    	93 
+RESP  	19 
+ABP   	98	167	61 
+SpO2  	100 
+HR    	93 
+RESP  	19 
+ABP   	98	167	62 
+SpO2  	100 
+HR    	94 
+RESP  	21 
+ABP   	98	166	60 
+SpO2  	100 
+HR    	93 
+RESP  	21 
+ABP   	102	172	67 
+SpO2  	100 
+HR    	94 
+RESP  	20 
+ABP   	101	173	67 
+SpO2  	100 
+HR    	94 
+RESP  	25 
+ABP   	103	172	66 
+SpO2  	100 
+HR    	94 
+RESP  	25 
+ABP   	105	175	69 
+SpO2  	100 
+HR    	94 
+RESP  	25 
+ABP   	107	175	70 
+SpO2  	100 
+HR    	94 
+RESP  	25 
+ABP   	108	178	72 
+SpO2  	100 
+HR    	94 
+RESP  	25 
+ABP   	108	180	72 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	94 
+RESP  	24 
+ABP   	108	181	72 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	94 
+RESP  	23 
+ABP   	108	179	71 
+SpO2  	100 
+HR    	94 
+RESP  	24 
+ABP   	109	181	73 
+SpO2  	100 
+HR    	94 
+RESP  	24 
+ABP   	107	180	73 
+SpO2  	100 
+HR    	95 
+RESP  	24 
+ABP   	107	181	70 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	95 
+RESP  	24 
+ABP   	106	181	69 
+SpO2  	100 
+HR    	95 
+RESP  	24 
+ABP   	106	181	67 
+SpO2  	100 
+HR    	95 
+RESP  	24 
+ABP   	110	184	66 
+SpO2  	100 
+HR    	95 
+RESP  	20 
+ABP   	115	190	69 
+SpO2  	100 
+HR    	97 
+RESP  	20 
+ABP   	118	194	71 
+SpO2  	100 
+HR    	97 
+RESP  	21 
+ABP   	118	194	70 
+SpO2  	100 
+HR    	97 
+RESP  	21 
+ABP   	118	194	69 
+SpO2  	100 
+HR    	98 
+RESP  	21 
+ABP   	118	196	69 
+SpO2  	100 
+HR    	98 
+RESP  	21 
+ABP   	119	197	68 
+SpO2  	100 
+HR    	98 
+RESP  	20 
+ABP   	119	198	68 
+SpO2  	100 
+HR    	99 
+RESP  	19 
+ABP   	119	198	67 
+SpO2  	100 
+HR    	98 
+RESP  	18 
+ABP   	119	198	66 
+SpO2  	100 
+HR    	98 
+RESP  	17 
+ABP   	119	198	66 
+SpO2  	100 
+HR    	98 
+RESP  	16 
+ABP   	118	198	65 
+SpO2  	100 
+HR    	99 
+RESP  	15 
+ABP   	117	197	64 
+SpO2  	100 
+HR    	99 
+RESP  	14 
+ABP   	116	196	63 
+SpO2  	100 
+HR    	99 
+RESP  	13 
+ABP   	116	196	63 
+SpO2  	100 
+HR    	99 
+RESP  	15 
+ABP   	115	195	62 
+SpO2  	100 
+HR    	100 
+RESP  	15 
+ABP   	114	194	61 
+SpO2  	100 
+HR    	99 
+RESP  	15 
+ABP   	119	197	61 
+SpO2  	100 
+HR    	99 
+RESP  	16 
+ABP   	123	203	67 
+SpO2  	100 
+HR    	99 
+RESP  	17 
+ABP   	123	202	68 
+SpO2  	100 
+HR    	99 
+RESP  	17 
+ABP   	125	205	68 
+SpO2  	100 
+HR    	99 
+RESP  	16 
+ABP   	124	204	71 
+SpO2  	100 
+HR    	99 
+RESP  	17 
+ABP   	120	199	68 
+SpO2  	100 
+HR    	99 
+RESP  	21 
+ABP   	123	203	68 
+SpO2  	100 
+HR    	99 
+RESP  	20 
+ABP   	128	206	72 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	129	212	75 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	131	214	76 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	130	212	78 
+SpO2  	100 
+HR    	98 
+RESP  	38 
+ABP   	132	214	79 
+SpO2  	100 
+HR    	98 
+RESP  	38 
+ABP   	132	214	79 
+SpO2  	100 
+HR    	99 
+RESP  	38 
+ABP   	131	213	79 
+SpO2  	100 
+HR    	99 
+RESP  	33 
+ABP   	136	216	81 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	99 
+RESP  	33 
+ABP   	137	219	85 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	99 
+RESP  	32 
+ABP   	134	216	82 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	30 
+ABP   	128	208	80 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	30 
+ABP   	129	210	78 
+SpO2  	100 
+HR    	98 
+RESP  	29 
+ABP   	135	213	82 
+SpO2  	100 
+HR    	97 
+RESP  	29 
+ABP   	133	213	81 
+SpO2  	99 
+HR    	98 
+RESP  	28 
+ABP   	131	210	79 
+SpO2  	99 
+HR    	98 
+RESP  	29 
+ABP   	127	206	74 
+SpO2  	99 
+HR    	98 
+RESP  	27 
+ABP   	133	212	79 
+SpO2  	99 
+HR    	98 
+RESP  	27 
+ABP   	139	217	84 
+SpO2  	99 
+HR    	98 
+RESP  	27 
+ABP   	140	219	86 
+SpO2  	99 
+HR    	98 
+RESP  	27 
+ABP   	143	221	88 
+SpO2  	99 
+HR    	99 
+RESP  	22 
+ABP   	143	223	88 
+SpO2  	100 
+HR    	99 
+RESP  	22 
+ABP   	144	225	89 
+SpO2  	100 
+HR    	96 
+RESP  	22 
+ABP   	143	225	89 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	144	226	89 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	144	227	89 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	142	223	86 
+SpO2  	100 
+HR    	98 
+RESP  	22 
+ABP   	145	227	88 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	22 
+ABP   	147	229	88 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	22 
+ABP   	149	231	90 
+ALARM	** ABP  229 > 220  
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	22 
+ABP   	150	232	90 
+ALARM	** ABP  231 > 220  
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	22 
+ABP   	151	233	91 
+ALARM	** ABP  232 > 220  
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	22 
+ABP   	147	229	88 
+ALARM	** ABP  233 > 220  
+SpO2  	100 
+HR    	98 
+RESP  	20 
+ABP   	153	232	92 
+ALARM	** ABP  233 > 220  
+SpO2  	100 
+INOP	NOISY-CHK ECG LEAD 
+HR    	98 
+RESP  	20 
+ABP   	149	229	91 
+SpO2  	100 
+INOP	NOISY-CHK ECG LEAD 
+HR    	98 
+RESP  	20 
+ABP   	147	227	89 
+SpO2  	100 
+INOP	NOISY-CHK ECG LEAD 
+HR    	99 
+RESP  	20 
+ABP   	147	225	86 
+SpO2  	100 
+HR    	99 
+RESP  	20 
+ABP   	149	227	88 
+SpO2  	100 
+HR    	99 
+RESP  	19 
+ABP   	147	229	90 
+SpO2  	100 
+HR    	100 
+RESP  	17 
+ABP   	144	228	87 
+SpO2  	100 
+HR    	100 
+RESP  	17 
+ABP   	139	227	85 
+SpO2  	100 
+HR    	100 
+RESP  	17 
+ABP   	138	224	81 
+SpO2  	100 
+HR    	100 
+RESP  	17 
+ABP   	134	223	80 
+SpO2  	100 
+HR    	103 
+RESP  	17 
+ABP   	130	222	79 
+SpO2  	100 
+HR    	103 
+RESP  	17 
+ABP   	125	216	72 
+SpO2  	100 
+HR    	107 
+RESP  	17 
+ABP   	121	211	72 
+SpO2  	100 
+HR    	107 
+RESP  	17 
+ABP   	118	210	70 
+SpO2  	100 
+HR    	110 
+RESP  	17 
+ABP   	114	206	65 
+SpO2  	100 
+HR    	110 
+RESP  	17 
+ABP   	112	205	63 
+SpO2  	100 
+HR    	114 
+RESP  	17 
+ABP   	111	202	61 
+SpO2  	100 
+HR    	114 
+RESP  	17 
+ABP   	112	195	62 
+SpO2  	100 
+HR    	114 
+RESP  	17 
+ABP   	112	201	62 
+SpO2  	100 
+HR    	117 
+RESP  	18 
+ABP   	113	199	64 
+SpO2  	100 
+HR    	121 
+RESP  	20 
+ABP   	113	202	63 
+SpO2  	100 
+HR    	112 
+RESP  	19 
+ABP   	107	192	61 
+SpO2  	100 
+HR    	111 
+RESP  	21 
+ABP   	108	192	59 
+SpO2  	100 
+HR    	111 
+RESP  	21 
+ABP   	106	194	61 
+SpO2  	100 
+HR    	109 
+RESP  	21 
+ABP   	103	194	59 
+SpO2  	100 
+HR    	109 
+RESP  	21 
+ABP   	103	193	57 
+SpO2  	100 
+HR    	109 
+RESP  	21 
+ABP   	106	199	59 
+SpO2  	100 
+HR    	109 
+RESP  	20 
+ABP   	108	199	60 
+SpO2  	100 
+HR    	109 
+RESP  	21 
+ABP   	113	204	64 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	108 
+RESP  	22 
+ABP   	113	203	63 
+SpO2  	100 
+HR    	109 
+RESP  	21 
+ABP   	116	204	64 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	109 
+RESP  	20 
+ABP   	122	209	70 
+SpO2  	100 
+INOP	RESP ERRATIC       
+HR    	119 
+RESP  	19 
+ABP   	123	210	71 
+SpO2  	100 
+HR    	115 
+RESP  	18 
+ABP   	122	211	68 
+SpO2  	100 
+HR    	115 
+RESP  	21 
+ABP   	124	211	68 
+SpO2  	100 
+HR    	116 
+RESP  	27 
+ABP   	120	206	68 
+SpO2  	100 
+HR    	114 
+RESP  	26 
+ABP   	120	205	67 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	115 
+RESP  	25 
+ABP   	121	204	67 
+SpO2  	99 
+HR    	113 
+RESP  	24 
+ABP   	124	208	68 
+SpO2  	99 
+HR    	112 
+RESP  	22 
+ABP   	126	208	68 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	104 
+RESP  	23 
+ABP   	126	209	70 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	101 
+RESP  	22 
+ABP   	126	209	69 
+SpO2  	99 
+HR    	101 
+RESP  	21 
+ABP   	128	210	69 
+SpO2  	99 
+HR    	101 
+RESP  	20 
+ABP   	133	216	73 
+SpO2  	99 
+HR    	101 
+RESP  	20 
+ABP   	134	218	74 
+SpO2  	99 
+INOP	NOISY-CHK ECG LEAD 
+HR    	101 
+RESP  	20 
+ABP   	131	215	72 
+SpO2  	99 
+HR    	101 
+RESP  	20 
+ABP   	130	215	72 
+SpO2  	99 
+HR    	99 
+RESP  	20 
+ABP   	126	208	73 
+SpO2  	99 
+HR    	97 
+RESP  	20 
+ABP   	126	208	70 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	124	207	68 
+SpO2  	99 
+HR    	99 
+RESP  	20 
+ABP   	122	205	67 
+SpO2  	99 
+HR    	100 
+RESP  	19 
+ABP   	122	205	66 
+SpO2  	99 
+HR    	100 
+RESP  	18 
+ABP   	125	204	65 
+SpO2  	99 
+HR    	100 
+RESP  	15 
+ABP   	128	211	71 
+SpO2  	99 
+HR    	100 
+RESP  	18 
+ABP   	127	210	71 
+SpO2  	99 
+HR    	100 
+RESP  	18 
+ABP   	125	208	70 
+SpO2  	99 
+HR    	99 
+RESP  	18 
+ABP   	125	208	69 
+SpO2  	98 
+HR    	100 
+RESP  	18 
+ABP   	124	207	67 
+SpO2  	98 
+HR    	100 
+RESP  	17 
+ABP   	126	206	66 
+SpO2  	98 
+HR    	99 
+RESP  	16 
+ABP   	120	200	68 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	119	201	64 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	117	200	63 
+SpO2  	98 
+HR    	99 
+RESP  	17 
+ABP   	117	200	62 
+SpO2  	98 
+HR    	100 
+RESP  	20 
+ABP   	117	200	62 
+SpO2  	99 
+HR    	101 
+RESP  	20 
+ABP   	121	203	64 
+SpO2  	99 
+HR    	101 
+RESP  	18 
+ABP   	122	206	66 
+SpO2  	99 
+HR    	101 
+RESP  	18 
+ABP   	119	204	65 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	101 
+RESP  	18 
+ABP   	118	203	63 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	101 
+RESP  	19 
+ABP   	118	203	63 
+SpO2  	99 
+HR    	101 
+RESP  	19 
+ABP   	118	203	62 
+SpO2  	99 
+HR    	101 
+RESP  	19 
+ABP   	118	203	62 
+SpO2  	99 
+HR    	101 
+RESP  	26 
+ABP   	118	202	62 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	101 
+RESP  	26 
+ABP   	117	202	61 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	100 
+RESP  	35 
+ABP   	119	201	61 
+SpO2  	99 
+HR    	100 
+RESP  	35 
+ABP   	114	196	61 
+SpO2  	99 
+HR    	100 
+RESP  	34 
+ABP   	113	196	60 
+SpO2  	99 
+INOP	NOISY-CHK ECG LEAD 
+HR    	100 
+RESP  	30 
+ABP   	112	195	59 
+SpO2  	99 
+INOP	NOISY-CHK ECG LEAD 
+HR    	100 
+RESP  	30 
+ABP   	112	194	58 
+SpO2  	99 
+HR    	100 
+RESP  	30 
+ABP   	111	194	58 
+SpO2  	99 
+HR    	97 
+RESP  	30 
+ABP   	112	199	58 
+SpO2  	99 
+HR    	98 
+RESP  	30 
+ABP   	114	200	60 
+SpO2  	99 
+HR    	98 
+RESP  	30 
+ABP   	115	201	62 
+SpO2  	99 
+HR    	98 
+RESP  	29 
+ABP   	113	198	61 
+SpO2  	99 
+HR    	101 
+RESP  	28 
+ABP   	117	199	61 
+SpO2  	99 
+HR    	100 
+RESP  	27 
+ABP   	119	205	67 
+SpO2  	99 
+HR    	100 
+RESP  	26 
+ABP   	118	203	66 
+SpO2  	99 
+HR    	100 
+RESP  	25 
+ABP   	116	203	65 
+SpO2  	99 
+HR    	99 
+RESP  	20 
+ABP   	114	201	62 
+SpO2  	99 
+HR    	100 
+RESP  	23 
+ABP   	118	201	61 
+SpO2  	99 
+HR    	100 
+RESP  	23 
+ABP   	120	203	67 
+SpO2  	99 
+HR    	99 
+RESP  	22 
+ABP   	121	204	68 
+SpO2  	99 
+HR    	99 
+RESP  	21 
+ABP   	119	203	66 
+SpO2  	99 
+HR    	96 
+RESP  	20 
+ABP   	118	202	65 
+SpO2  	99 
+HR    	98 
+RESP  	19 
+ABP   	118	203	64 
+SpO2  	99 
+HR    	97 
+RESP  	18 
+ABP   	118	203	64 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	118	203	63 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	118	202	63 
+SpO2  	99 
+HR    	97 
+RESP  	15 
+ABP   	118	201	62 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	120	203	63 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	121	204	66 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	119	203	65 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	121	202	63 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	115	196	65 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	114	196	62 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	113	196	61 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	113	195	60 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	112	195	59 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	112	194	59 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	110	195	57 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	110	195	57 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	110	197	57 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	110	196	58 
+SpO2  	99 
+HR    	98 
+RESP  	11 
+ABP   	108	195	57 
+SpO2  	99 
+HR    	99 
+RESP  	12 
+ABP   	106	192	56 
+SpO2  	99 
+HR    	99 
+RESP  	12 
+ABP   	106	192	55 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	108	192	55 
+SpO2  	99 
+HR    	99 
+RESP  	12 
+ABP   	113	197	60 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	111	195	60 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	111	195	60 
+SpO2  	99 
+HR    	98 
+RESP  	11 
+ABP   	108	195	57 
+SpO2  	99 
+HR    	98 
+RESP  	10 
+ABP   	106	194	56 
+SpO2  	99 
+HR    	95 
+RESP  	9 
+ABP   	105	194	55 
+SpO2  	99 
+HR    	96 
+RESP  	8 
+ABP   	103	193	54 
+SpO2  	99 
+HR    	100 
+RESP  	13 
+ABP   	102	192	52 
+SpO2  	99 
+HR    	99 
+RESP  	13 
+ABP   	99	190	51 
+SpO2  	99 
+HR    	102 
+RESP  	13 
+ABP   	99	187	50 
+SpO2  	99 
+HR    	100 
+RESP  	13 
+ABP   	99	186	50 
+SpO2  	99 
+HR    	102 
+RESP  	13 
+ABP   	99	185	50 
+SpO2  	99 
+HR    	102 
+RESP  	13 
+ABP   	100	185	50 
+SpO2  	99 
+HR    	102 
+RESP  	11 
+ABP   	101	185	50 
+SpO2  	99 
+HR    	102 
+RESP  	11 
+ABP   	108	192	56 
+SpO2  	99 
+HR    	102 
+RESP  	11 
+ABP   	111	196	59 
+SpO2  	99 
+HR    	102 
+RESP  	11 
+ABP   	113	196	59 
+SpO2  	99 
+HR    	100 
+RESP  	11 
+ABP   	120	203	67 
+SpO2  	99 
+HR    	100 
+RESP  	11 
+ABP   	120	204	71 
+SpO2  	99 
+HR    	98 
+RESP  	13 
+ABP   	119	202	70 
+SpO2  	99 
+HR    	98 
+RESP  	13 
+ABP   	118	202	70 
+SpO2  	99 
+HR    	96 
+RESP  	13 
+ABP   	116	199	68 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	13 
+ABP   	112	194	64 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	12 
+ABP   	118	199	69 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	11 
+ABP   	117	198	67 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	15 
+ABP   	115	197	65 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	15 
+ABP   	117	197	63 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	15 
+ABP   	120	200	65 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	15 
+ABP   	128	207	75 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	15 
+ABP   	130	210	77 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	96 
+RESP  	14 
+ABP   	131	212	77 
+SpO2  	99 
+HR    	96 
+RESP  	14 
+ABP   	131	213	79 
+SpO2  	99 
+HR    	97 
+RESP  	13 
+ABP   	130	213	78 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	97 
+RESP  	12 
+ABP   	129	212	75 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	97 
+RESP  	14 
+ABP   	133	216	78 
+SpO2  	99 
+HR    	97 
+RESP  	14 
+ABP   	132	215	77 
+SpO2  	99 
+HR    	97 
+RESP  	16 
+ABP   	130	213	74 
+SpO2  	99 
+HR    	97 
+RESP  	16 
+ABP   	132	218	77 
+SpO2  	99 
+INOP	NOISY-CHK ECG LEAD 
+INOP	RESP ERRATIC       
+HR    	97 
+RESP  	16 
+ABP   	131	217	76 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	97 
+RESP  	19 
+ABP   	129	214	72 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	97 
+RESP  	19 
+ABP   	129	214	71 
+SpO2  	99 
+HR    	97 
+RESP  	19 
+ABP   	130	216	73 
+SpO2  	99 
+HR    	98 
+RESP  	19 
+ABP   	129	214	72 
+SpO2  	99 
+HR    	97 
+RESP  	19 
+ABP   	127	212	70 
+SpO2  	100 
+HR    	98 
+RESP  	18 
+ABP   	126	210	69 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	125	210	68 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	124	208	67 
+SpO2  	99 
+HR    	98 
+RESP  	15 
+ABP   	124	208	66 
+SpO2  	99 
+HR    	99 
+RESP  	16 
+ABP   	126	209	66 
+SpO2  	99 
+HR    	99 
+RESP  	19 
+ABP   	128	211	71 
+SpO2  	99 
+HR    	99 
+RESP  	19 
+ABP   	125	209	69 
+SpO2  	99 
+HR    	99 
+RESP  	18 
+ABP   	124	208	68 
+SpO2  	99 
+HR    	99 
+RESP  	17 
+ABP   	122	207	67 
+SpO2  	99 
+HR    	99 
+RESP  	16 
+ABP   	121	206	65 
+SpO2  	99 
+HR    	99 
+RESP  	15 
+ABP   	121	206	65 
+SpO2  	99 
+HR    	99 
+RESP  	18 
+ABP   	122	205	64 
+SpO2  	99 
+HR    	99 
+RESP  	18 
+ABP   	124	210	68 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	123	208	67 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	123	208	69 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	120	205	67 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	119	205	65 
+SpO2  	98 
+HR    	98 
+RESP  	19 
+ABP   	118	204	64 
+SpO2  	98 
+HR    	98 
+RESP  	18 
+ABP   	121	205	64 
+SpO2  	98 
+HR    	99 
+RESP  	19 
+ABP   	125	211	71 
+SpO2  	98 
+HR    	99 
+RESP  	19 
+ABP   	123	209	69 
+SpO2  	98 
+HR    	99 
+RESP  	19 
+ABP   	119	205	66 
+SpO2  	98 
+HR    	99 
+RESP  	18 
+ABP   	118	204	64 
+SpO2  	98 
+HR    	99 
+RESP  	17 
+ABP   	117	204	63 
+SpO2  	98 
+HR    	99 
+RESP  	16 
+ABP   	119	203	62 
+SpO2  	99 
+HR    	0 
+RESP  	19 
+ABP   	113	199	61 
+SpO2  	99 
+HR    	0 
+RESP  	16 
+ABP   	118	202	63 
+SpO2  	99 
+HR    	0 
+RESP  	16 
+ABP   	119	205	66 
+SpO2  	99 
+HR    	0 
+RESP  	16 
+ABP   	117	203	65 
+SpO2  	98 
+HR    	0 
+RESP  	16 
+ABP   	116	201	63 
+SpO2  	98 
+HR    	0 
+RESP  	16 
+ABP   	116	201	63 
+SpO2  	98 
+HR    	0 
+RESP  	16 
+ABP   	116	201	63 
+SpO2  	98 
+HR    	100 
+RESP  	16 
+ABP   	115	201	62 
+SpO2  	98 
+HR    	100 
+RESP  	16 
+ABP   	115	201	61 
+SpO2  	98 
+HR    	100 
+RESP  	16 
+ABP   	114	200	61 
+SpO2  	99 
+HR    	100 
+RESP  	16 
+ABP   	117	201	60 
+SpO2  	98 
+HR    	100 
+RESP  	16 
+ABP   	120	204	65 
+SpO2  	98 
+HR    	98 
+RESP  	16 
+ABP   	120	204	65 
+SpO2  	98 
+HR    	98 
+RESP  	15 
+ABP   	119	204	66 
+SpO2  	99 
+HR    	98 
+RESP  	14 
+ABP   	117	203	65 
+SpO2  	99 
+HR    	99 
+RESP  	13 
+ABP   	116	201	63 
+SpO2  	99 
+HR    	99 
+RESP  	16 
+ABP   	120	204	64 
+SpO2  	98 
+HR    	99 
+RESP  	16 
+ABP   	123	207	68 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	121	205	68 
+SpO2  	99 
+HR    	98 
+RESP  	17 
+ABP   	127	210	73 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	127	211	76 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	127	211	77 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	120	205	72 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	122	203	72 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	126	208	76 
+SpO2  	99 
+HR    	98 
+RESP  	16 
+ABP   	130	214	79 
+SpO2  	99 
+HR    	98 
+RESP  	18 
+ABP   	130	214	79 
+SpO2  	99 
+HR    	98 
+RESP  	18 
+ABP   	127	212	77 
+SpO2  	99 
+HR    	98 
+RESP  	18 
+ABP   	124	212	75 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	98 
+RESP  	18 
+ABP   	123	211	71 
+SpO2  	98 
+HR    	97 
+RESP  	18 
+ABP   	122	210	70 
+SpO2  	98 
+HR    	97 
+RESP  	18 
+ABP   	120	208	68 
+SpO2  	99 
+HR    	97 
+RESP  	20 
+ABP   	120	206	66 
+SpO2  	98 
+HR    	97 
+RESP  	20 
+ABP   	119	205	66 
+SpO2  	98 
+INOP	NOISY-CHK ECG LEAD 
+HR    	97 
+RESP  	19 
+ABP   	119	204	65 
+SpO2  	98 
+INOP	NOISY-CHK ECG LEAD 
+HR    	97 
+RESP  	19 
+ABP   	119	203	64 
+SpO2  	98 
+HR    	97 
+RESP  	19 
+ABP   	118	203	64 
+SpO2  	98 
+HR    	97 
+RESP  	19 
+ABP   	118	202	63 
+SpO2  	98 
+HR    	98 
+RESP  	18 
+ABP   	117	201	62 
+SpO2  	98 
+HR    	98 
+RESP  	17 
+ABP   	117	201	62 
+SpO2  	99 
+HR    	98 
+RESP  	20 
+ABP   	120	203	63 
+SpO2  	99 
+HR    	99 
+RESP  	20 
+ABP   	121	204	66 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	119	203	65 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	116	202	64 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	115	201	62 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	113	198	60 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	112	196	60 
+SpO2  	99 
+HR    	100 
+RESP  	20 
+ABP   	112	196	59 
+SpO2  	99 
+HR    	99 
+RESP  	20 
+ABP   	111	194	59 
+SpO2  	99 
+HR    	99 
+RESP  	20 
+ABP   	115	194	59 
+SpO2  	99 
+HR    	99 
+RESP  	15 
+ABP   	111	190	62 
+SpO2  	99 
+HR    	98 
+RESP  	15 
+ABP   	114	195	64 
+SpO2  	99 
+HR    	98 
+RESP  	15 
+ABP   	112	193	62 
+SpO2  	99 
+HR    	98 
+RESP  	15 
+ABP   	110	189	63 
+SpO2  	99 
+HR    	98 
+RESP  	14 
+ABP   	112	192	62 
+SpO2  	100 
+HR    	99 
+RESP  	14 
+ABP   	113	195	65 
+SpO2  	100 
+HR    	99 
+RESP  	14 
+ABP   	112	194	63 
+SpO2  	100 
+HR    	99 
+RESP  	13 
+ABP   	116	198	66 
+SpO2  	100 
+HR    	99 
+RESP  	13 
+ABP   	114	198	66 
+SpO2  	100 
+HR    	99 
+RESP  	13 
+ABP   	114	197	65 
+SpO2  	99 
+HR    	99 
+RESP  	13 
+ABP   	113	197	63 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	112	196	62 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	111	195	61 
+SpO2  	99 
+HR    	95 
+RESP  	13 
+ABP   	110	193	59 
+SpO2  	99 
+HR    	96 
+RESP  	14 
+ABP   	109	192	58 
+SpO2  	99 
+HR    	97 
+RESP  	14 
+ABP   	106	187	59 
+SpO2  	99 
+HR    	97 
+RESP  	14 
+ABP   	106	188	57 
+SpO2  	99 
+HR    	97 
+RESP  	13 
+ABP   	103	187	56 
+SpO2  	99 
+HR    	98 
+RESP  	12 
+ABP   	104	186	53 
+SpO2  	99 
+HR    	98 
+RESP  	11 
+ABP   	99	180	53 
+SpO2  	99 
+HR    	100 
+RESP  	10 
+ABP   	101	180	51 
+SpO2  	99 
+HR    	100 
+RESP  	9 
+ABP   	96	175	53 
+SpO2  	99 
+HR    	100 
+RESP  	8 
+ABP   	96	176	51 
+SpO2  	99 
+HR    	100 
+RESP  	7 
+ABP   	96	176	51 
+SpO2  	99 
+HR    	100 
+RESP  	6 
+ABP   	95	176	50 
+SpO2  	99 
+HR    	100 
+RESP  	5 
+ABP   	95	177	49 
+SpO2  	99 
+HR    	102 
+RESP  	4 
+ABP   	93	177	48 
+SpO2  	99 
+HR    	100 
+RESP  	3 
+ABP   	91	177	48 
+SpO2  	99 
+HR    	100 
+RESP  	2 
+ABP   	91	176	46 
+SpO2  	99 
+HR    	100 
+RESP  	2 
+ABP   	91	175	46 
+SpO2  	100 
+HR    	100 
+RESP  	0 
+ABP   	91	174	46 
+SpO2  	100 
+HR    	99 
+RESP  	0 
+ABP   	91	174	46 
+SpO2  	100 
+HR    	99 
+RESP  	0 
+ABP   	90	168	48 
+SpO2  	100 
+HR    	98 
+RESP  	0 
+ABP   	90	170	47 
+SpO2  	100 
+HR    	98 
+RESP  	0 
+ABP   	91	171	47 
+SpO2  	100 
+HR    	98 
+RESP  	0 
+ABP   	91	171	47 
+SpO2  	100 
+HR    	97 
+RESP  	0 
+ABP   	92	172	47 
+SpO2  	100 
+HR    	97 
+RESP  	0 
+ABP   	92	173	48 
+SpO2  	100 
+HR    	97 
+RESP  	0 
+ABP   	92	173	48 
+SpO2  	100 
+HR    	96 
+RESP  	0 
+ABP   	92	173	48 
+SpO2  	100 
+HR    	96 
+RESP  	0 
+ABP   	91	173	48 
+SpO2  	100 
+HR    	95 
+RESP  	0 
+ABP   	91	173	46 
+SpO2  	100 
+HR    	95 
+RESP  	0 
+ABP   	93	173	46 
+SpO2  	100 
+HR    	95 
+RESP  	0 
+ABP   	89	167	48 
+SpO2  	99 
+HR    	95 
+RESP  	0 
+ABP   	89	168	47 
+SpO2  	99 
+HR    	95 
+RESP  	16 
+ABP   	89	168	46 
+SpO2  	99 
+HR    	97 
+RESP  	16 
+ABP   	89	168	46 
+SpO2  	99 
+HR    	96 
+RESP  	16 
+ABP   	89	168	46 
+SpO2  	99 
+HR    	96 
+RESP  	16 
+ABP   	89	168	46 
+SpO2  	99 
+HR    	96 
+RESP  	16 
+ABP   	89	169	46 
+SpO2  	99 
+HR    	96 
+RESP  	16 
+ABP   	89	169	46 
+SpO2  	99 
+HR    	96 
+RESP  	16 
+ABP   	90	170	46 
+SpO2  	99 
+HR    	95 
+RESP  	16 
+ABP   	90	171	47 
+SpO2  	99 
+HR    	93 
+RESP  	16 
+ABP   	90	171	47 
+SpO2  	99 
+HR    	93 
+RESP  	15 
+ABP   	88	171	47 
+SpO2  	99 
+HR    	94 
+RESP  	14 
+ABP   	86	165	46 
+SpO2  	99 
+HR    	94 
+RESP  	13 
+ABP   	83	162	46 
+SpO2  	99 
+HR    	94 
+RESP  	12 
+ABP   	81	162	44 
+SpO2  	99 
+HR    	97 
+RESP  	11 
+ABP   	81	161	43 
+SpO2  	99 
+HR    	97 
+RESP  	11 
+ABP   	81	160	42 
+SpO2  	99 
+HR    	97 
+RESP  	11 
+ABP   	82	160	43 
+SpO2  	99 
+HR    	95 
+RESP  	12 
+ABP   	83	161	43 
+SpO2  	99 
+HR    	96 
+RESP  	12 
+ABP   	83	162	43 
+SpO2  	99 
+HR    	96 
+RESP  	12 
+ABP   	84	163	44 
+SpO2  	99 
+HR    	96 
+RESP  	12 
+ABP   	84	159	45 
+SpO2  	99 
+HR    	96 
+RESP  	13 
+ABP   	84	161	44 
+SpO2  	99 
+HR    	96 
+RESP  	13 
+ABP   	87	164	46 
+SpO2  	99 
+HR    	96 
+RESP  	14 
+ABP   	87	165	46 
+SpO2  	99 
+HR    	95 
+RESP  	14 
+ABP   	87	165	46 
+SpO2  	99 
+HR    	95 
+RESP  	15 
+ABP   	88	166	47 
+SpO2  	99 
+HR    	95 
+RESP  	18 
+ABP   	88	166	47 
+SpO2  	99 
+HR    	93 
+RESP  	17 
+ABP   	89	167	47 
+SpO2  	99 
+HR    	94 
+RESP  	16 
+ABP   	89	167	47 
+SpO2  	99 
+HR    	94 
+RESP  	31 
+ABP   	90	169	48 
+SpO2  	99 
+HR    	94 
+RESP  	31 
+ABP   	89	167	47 
+SpO2  	99 
+HR    	94 
+RESP  	33 
+ABP   	88	167	47 
+SpO2  	99 
+HR    	94 
+RESP  	33 
+ABP   	88	167	47 
+SpO2  	99 
+HR    	94 
+RESP  	33 
+ABP   	87	167	45 
+SpO2  	99 
+HR    	94 
+RESP  	33 
+ABP   	87	167	46 
+SpO2  	99 
+HR    	94 
+RESP  	32 
+ABP   	86	166	46 
+SpO2  	99 
+HR    	94 
+RESP  	32 
+ABP   	84	165	45 
+SpO2  	99 
+HR    	94 
+RESP  	34 
+ABP   	84	163	45 
+SpO2  	99 
+INOP	RESP ERRATIC       
+HR    	94 
+RESP  	34 
+ABP   	83	162	45 
+SpO2  	99 
+HR    	94 
+RESP  	32 
+ABP   	83	159	44 
+SpO2  	99 
+HR    	94 
+RESP  	32 
+ABP   	84	159	45 
+SpO2  	99 
+HR    	94 
+RESP  	30 
+ABP   	87	161	48 
+SpO2  	99 
+HR    	94 
+RESP  	30 
+ABP   	87	161	48 
+SpO2  	99 
+HR    	94 
+RESP  	29 
+ABP   	88	162	48 
+SpO2  	99 
+HR    	94 
+RESP  	28 
+ABP   	88	162	49 
+SpO2  	99 
+HR    	94 
+RESP  	24 
+ABP   	88	163	49 
+SpO2  	99 
+HR    	94 
+RESP  	24 
+ABP   	88	163	49 
+SpO2  	99 
+HR    	94 
+RESP  	24 
+ABP   	89	164	49 
+SpO2  	99 
+INOP	NOISY-CHK ECG LEAD 
+HR    	94 
+RESP  	24 
+ABP   	89	164	48 
+SpO2  	99 
+HR    	94 
+RESP  	23 
+ABP   	88	164	48 
+SpO2  	99 
+HR    	94 
+RESP  	23 
+ABP   	88	163	47 
+SpO2  	99 
+HR    	95 
+RESP  	22 
+ABP   	88	163	47 
+SpO2  	99 
+HR    	95 
+RESP  	22 
+ABP   	92	167	51 
+SpO2  	99 
+HR    	96 
+RESP  	22 
+ABP   	95	171	54 
+SpO2  	99 
+HR    	96 
+RESP  	22 
+ABP   	97	172	55 
+SpO2  	98 
+HR    	96 
+RESP  	21 
+ABP   	103	178	60 
+SpO2  	98 
+HR    	96 
+RESP  	20 
+ABP   	106	183	65 
+SpO2  	98 
+HR    	96 
+RESP  	22 
+ABP   	105	182	65 
+SpO2  	98 
+HR    	96 
+RESP  	22 
+ABP   	109	186	67 
+SpO2  	98 
+HR    	96 
+RESP  	22 
+ABP   	109	187	68 
+SpO2  	97 
+HR    	96 
+RESP  	22 
+ABP   	108	186	68 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	110	189	69 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	109	188	68 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	109	188	68 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	110	189	68 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	110	190	67 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	111	191	68 
+SpO2  	97 
+HR    	96 
+RESP  	21 
+ABP   	111	191	67 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	111	190	67 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	112	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	112	191	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	112	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	112	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	112	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	113	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	113	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	17 
+ABP   	113	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	15 
+ABP   	114	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	16 
+ABP   	114	191	68 
+SpO2  	97 
+HR    	96 
+RESP  	16 
+ABP   	114	191	68 
+SpO2  	97 
+HR    	96 
+RESP  	15 
+ABP   	113	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	14 
+ABP   	113	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	13 
+ABP   	113	190	67 
+SpO2  	97 
+HR    	96 
+RESP  	12 
+ABP   	112	189	67 
+SpO2  	97 
+HR    	96 
+RESP  	11 
+ABP   	113	189	67 
+SpO2  	97 
+HR    	96 
+RESP  	10 
+ABP   	113	190	68 
+SpO2  	97 
+HR    	96 
+RESP  	14 
+ABP   	112	188	67 
+SpO2  	97 
+HR    	96 
+RESP  	14 
+ABP   	112	189	67 
+SpO2  	97 
+HR    	96 
+RESP  	14 
+ABP   	112	189	67 
+SpO2  	96 
+HR    	96 
+RESP  	14 
+ABP   	113	190	67 
+SpO2  	96 
+HR    	96 
+RESP  	14 
+ABP   	113	190	67 
+SpO2  	96 
+HR    	96 
+RESP  	12 
+ABP   	113	191	67 
+SpO2  	96 
+HR    	96 
+RESP  	12 
+ABP   	113	192	67 
+SpO2  	96 
+HR    	96 
+RESP  	12 
+ABP   	112	192	67 
+SpO2  	96 
+HR    	96 
+RESP  	12 
+ABP   	114	192	66 
+SpO2  	96 
+HR    	97 
+RESP  	12 
+ABP   	110	189	67 
+SpO2  	96 
+HR    	97 
+RESP  	12 
+ABP   	109	188	66 
+SpO2  	96 
+HR    	97 
+RESP  	12 
+ABP   	109	187	66 
+SpO2  	96 
+HR    	100 
+RESP  	12 
+ABP   	109	187	65 
+SpO2  	96 
+HR    	99 
+RESP  	12 
+ABP   	109	188	65 
+SpO2  	96 
+HR    	100 
+RESP  	11 
+ABP   	109	188	65 
+SpO2  	96 
+HR    	100 
+RESP  	11 
+ABP   	110	189	66 
+SpO2  	96 
+HR    	100 
+RESP  	12 
+ABP   	110	189	66 
+SpO2  	96 
+HR    	99 
+RESP  	12 
+ABP   	111	189	66 
+SpO2  	96 
+HR    	99 
+RESP  	12 
+ABP   	111	190	67 
+SpO2  	96 
+HR    	99 
+RESP  	12 
+ABP   	113	190	67 
+SpO2  	96 
+HR    	97 
+RESP  	11 
+ABP   	110	187	68 
+SpO2  	96 
+HR    	94 
+RESP  	10 
+ABP   	108	188	67 
+SpO2  	96 
+HR    	95 
+RESP  	9 
+ABP   	104	185	66 
+SpO2  	96 
+HR    	96 
+RESP  	8 
+ABP   	104	185	66 
+SpO2  	96 
+HR    	96 
+RESP  	7 
+ABP   	101	184	64 
+SpO2  	96 
+HR    	100 
+RESP  	6 
+ABP   	98	182	62 
+SpO2  	96 
+HR    	100 
+RESP  	5 
+ABP   	94	178	59 
+SpO2  	96 
+HR    	100 
+RESP  	4 
+ABP   	93	174	60 
+SpO2  	96 
+HR    	100 
+RESP  	3 
+ABP   	91	174	59 
+SpO2  	96 
+HR    	103 
+RESP  	10 
+ABP   	88	173	58 
+SpO2  	96 
+HR    	103 
+RESP  	10 
+ABP   	88	172	57 
+SpO2  	96 
+HR    	103 
+RESP  	12 
+ABP   	87	172	57 
+SpO2  	0 
+HR    	104 
+RESP  	12 
+ABP   	86	170	55 
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	107 
+RESP  	11 
+ABP   	85	170	55 
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	107 
+RESP  	16 
+ABP   	85	170	55 
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	110 
+RESP  	16 
+ABP   	83	170	55 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	110 
+RESP  	15 
+ABP   	82	167	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	110 
+RESP  	17 
+ABP   	81	166	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	113 
+RESP  	17 
+ABP   	80	161	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	115 
+RESP  	19 
+ABP   	80	161	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	115 
+RESP  	19 
+ABP   	80	161	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	115 
+RESP  	18 
+ABP   	79	161	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	120 
+RESP  	17 
+ABP   	79	161	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	120 
+RESP  	16 
+ABP   	79	159	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	115 
+RESP  	17 
+ABP   	80	159	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	119 
+RESP  	17 
+ABP   	79	159	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	119 
+RESP  	28 
+ABP   	79	159	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	114 
+RESP  	28 
+ABP   	79	158	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	115 
+RESP  	28 
+ABP   	79	158	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	112 
+RESP  	28 
+ABP   	79	154	52 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	113 
+RESP  	25 
+ABP   	78	145	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	112 
+RESP  	25 
+ABP   	79	144	54 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	NOISY-CHK ECG LEAD 
+INOP	SpO2 NON-PULSATILE 
+HR    	113 
+RESP  	25 
+ABP   	77	142	55 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	113 
+RESP  	22 
+ABP   	76	133	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	122 
+RESP  	22 
+ABP   	76	133	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	122 
+RESP  	22 
+ABP   	74	129	54 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	127 
+RESP  	22 
+ABP   	74	129	54 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	133 
+RESP  	22 
+ABP   	72	126	53 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	139 
+RESP  	20 
+ABP   	70	121	51 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	139 
+RESP  	22 
+ABP   	68	118	51 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	22 
+ABP   	66	112	50 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	22 
+ABP   	66	111	49 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	26 
+ABP   	64	109	49 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	26 
+ABP   	64	106	48 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	26 
+ABP   	64	106	48 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	26 
+ABP   	65	107	48 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	24 
+ABP   	65	107	48 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	24 
+ABP   	65	108	48 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	24 
+ABP   	63	104	47 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	29 
+ABP   	61	99	46 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	29 
+ABP   	60	99	45 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	0 
+RESP  	28 
+ABP   	60	97	45 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	165 
+RESP  	27 
+ABP   	59	94	45 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	165 
+RESP  	26 
+ABP   	62	96	48 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	163 
+RESP  	25 
+ABP   	60	93	47 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	163 
+RESP  	24 
+ABP   	59	90	46 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	167 
+RESP  	23 
+ABP   	58	87	46 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	178 
+RESP  	21 
+ABP   	58	87	45 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	174 
+RESP  	21 
+ABP   	56	84	45 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	173 
+RESP  	21 
+ABP   	56	80	45 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	175 
+RESP  	21 
+ABP   	58	80	47 
+ALARM	***TACHY 175 >150  
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	171 
+RESP  	21 
+ABP   	57	79	47 
+ALARM	***TACHY 175 >150  
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	171 
+RESP  	21 
+ABP   	56	78	47 
+ALARM	***TACHY 175 >150  
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	171 
+RESP  	21 
+ABP   	55	74	46 
+ALARM	***TACHY 175 >150  
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	171 
+RESP  	21 
+ABP   	54	72	46 
+ALARM	***TACHY 175 >150  
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	165 
+RESP  	21 
+ABP   	54	74	45 
+ALARM	***TACHY 175 >150  
+ALARM	** ABP   72 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	169 
+RESP  	21 
+ABP   	53	73	44 
+ALARM	***TACHY 175 >150  
+ALARM	** ABP   72 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	169 
+RESP  	21 
+ABP   	51	70	43 
+ALARM	***TACHY 175 >150  
+ALARM	** ABP   72 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	162 
+RESP  	21 
+ABP   	51	68	43 
+ALARM	***TACHY 175 >150  
+ALARM	** ABP   70 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	169 
+RESP  	21 
+ABP   	51	68	44 
+ALARM	***TACHY 175 >150  
+ALARM	** ABP   68 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	172 
+RESP  	21 
+ABP   	51	67	43 
+ALARM	***TACHY 175 >150  
+ALARM	** ABP   68 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	177 
+RESP  	14 
+ABP   	51	67	43 
+ALARM	***TACHY 177 >150  
+ALARM	** ABP   67 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	177 
+RESP  	14 
+ABP   	51	66	44 
+ALARM	***TACHY 177 >150  
+ALARM	** ABP   67 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	183 
+RESP  	13 
+ABP   	52	68	44 
+ALARM	***TACHY 183 >150  
+ALARM	** ABP   66 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	184 
+RESP  	12 
+ABP   	51	68	44 
+ALARM	***TACHY 184 >150  
+ALARM	** ABP   66 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	178 
+RESP  	13 
+ABP   	51	67	43 
+ALARM	***TACHY 184 >150  
+ALARM	** ABP   66 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+INOP	RESP ERRATIC       
+HR    	174 
+RESP  	14 
+ABP   	50	66	43 
+ALARM	***TACHY 184 >150  
+ALARM	** ABP   66 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	172 
+RESP  	14 
+ABP   	50	66	42 
+ALARM	***TACHY 184 >150  
+ALARM	** ABP   66 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	174 
+RESP  	13 
+ABP   	50	64	42 
+ALARM	***TACHY 184 >150  
+ALARM	** ABP   66 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	183 
+RESP  	12 
+ABP   	50	63	43 
+ALARM	***TACHY 184 >150  
+ALARM	** ABP   64 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+INOP	RESP ERRATIC       
+HR    	188 
+RESP  	11 
+ABP   	50	66	42 
+ALARM	***TACHY 188 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+INOP	RESP ERRATIC       
+HR    	192 
+RESP  	10 
+ABP   	52	67	43 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	189 
+RESP  	9 
+ABP   	52	67	45 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	180 
+RESP  	8 
+ABP   	53	68	45 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	180 
+RESP  	7 
+ABP   	52	68	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	179 
+RESP  	6 
+ABP   	54	70	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	176 
+RESP  	5 
+ABP   	54	71	45 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	173 
+RESP  	4 
+ABP   	54	71	45 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	173 
+RESP  	3 
+ABP   	54	72	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	173 
+RESP  	2 
+ABP   	53	72	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	169 
+RESP  	2 
+ABP   	54	75	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	167 
+RESP  	0 
+ABP   	53	75	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	169 
+RESP  	0 
+ABP   	53	77	43 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	161 
+RESP  	0 
+ABP   	55	77	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	160 
+RESP  	0 
+ABP   	54	77	45 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	163 
+RESP  	0 
+ABP   	54	77	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	171 
+RESP  	0 
+ABP   	54	77	45 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	169 
+RESP  	0 
+ABP   	53	75	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	164 
+RESP  	0 
+ABP   	54	73	44 
+ALARM	***TACHY 192 >150  
+ALARM	** ABP   63 < 90   
+SpO2  	0 
+INOP	SpO2 NON-PULSATILE 
+HR    	171 
+RESP  	0 
+ABP   	53	73	44 
+SpO2  	62 
+INOP	SpO2 NON-PULSATILE 
+HR    	167 
+RESP  	0 
+ABP   	53	74	44 
+SpO2  	62 
+HR    	172 
+RESP  	0 
+ABP   	53	77	44 
+SpO2  	62 
+HR    	175 
+RESP  	0 
+ABP   	54	78	43 
+SpO2  	62 
+HR    	174 
+RESP  	0 
+ABP   	54	81	44 
+SpO2  	62 
+HR    	174 
+RESP  	32 
+ABP   	54	79	43 
+SpO2  	62 
+HR    	173 
+RESP  	31 
+ABP   	54	81	44 
+SpO2  	62 
+HR    	160 
+RESP  	30 
+ABP   	55	83	43 
+SpO2  	62 
+HR    	161 
+RESP  	29 
+ABP   	54	83	43 
+SpO2  	62 
+HR    	161 
+RESP  	28 
+ABP   	55	83	43 
+SpO2  	62 
+HR    	169 
+RESP  	21 
+ABP   	56	86	44 
+SpO2  	62 
+HR    	159 
+RESP  	21 
+ABP   	58	88	44 
+SpO2  	62 
+HR    	157 
+RESP  	21 
+ABP   	57	88	45 
+SpO2  	62 
+HR    	162 
+RESP  	21 
+ABP   	58	87	45 
+SpO2  	62 
+HR    	154 
+RESP  	21 
+ABP   	56	83	45 
+SpO2  	62 
+HR    	154 
+RESP  	18 
+ABP   	56	83	44 
+SpO2  	62 
+HR    	158 
+RESP  	18 
+ABP   	55	82	43 
+SpO2  	62 
+HR    	158 
+RESP  	18 
+ABP   	54	79	43 
+SpO2  	62 
+HR    	150 
+RESP  	18 
+ABP   	54	80	43 
+SpO2  	62 
+HR    	163 
+RESP  	18 
+ABP   	53	76	42 
+SpO2  	62 
+HR    	160 
+RESP  	17 
+ABP   	53	77	42 
+SpO2  	62 
+HR    	164 
+RESP  	17 
+ABP   	52	76	42 
+SpO2  	62 
+HR    	179 
+RESP  	18 
+ABP   	53	77	42 
+SpO2  	62 
+HR    	177 
+RESP  	18 
+ABP   	53	79	43 
+SpO2  	62 
+HR    	176 
+RESP  	18 
+ABP   	52	77	42 
+SpO2  	62 
+HR    	180 
+RESP  	18 
+ABP   	53	78	43 
+SpO2  	62 
+HR    	173 
+RESP  	17 
+ABP   	53	78	43 
