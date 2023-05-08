@@ -60,7 +60,7 @@ This script will train and evaluate the TRACE model on the MIMIC ICU database. I
 
 ## Pre-trained Model
 
-Our pretrained models for TRACE can be found in `pretrained_discriminator.pt` and `pretrained_encoder.pt`. They are trained on the MIMIC database with the parameters in `main.py`.
+Our pretrained models for TRACE can be found in `pretrained_discriminator.pt` and `pretrained_encoder.pt`. They are trained on the MIMIC database with the parameters in `main.py`. These files are formatted using Python's `pickle` module. For more information, see [PyTorch Saving and Loading Models](https://pytorch.org/tutorials/beginner/saving_loading_models.html).
 
 ## Results
 
