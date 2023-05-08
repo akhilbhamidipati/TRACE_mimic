@@ -29,6 +29,8 @@ statsmodels==0.10.0
 torch==1.13.1
 ```
 
+Note: This may require Python version 3.7.3.
+
 ## Data Download Instructions
 
 The preprocessed data is already in this repository in the folder `/mimic-database` and does not need to be downloaded separately. To view a shorter version of the raw database, check out `/mimic-database-small-version`. The original raw data can be downloaded from [MIMIC Database](https://github.com/Addison-Weatherhead/TRACE) and was not uploaded to this Github repository because it is over 25 GB.
