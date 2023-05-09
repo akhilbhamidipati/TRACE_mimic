@@ -15,6 +15,24 @@ Much of our code is sourced from [TRACE Github Repo](https://github.com/Addison-
 
 ## Requirements
 
+From the repository folder, set up a virtual Python environment:
+
+```
+python -m venv env
+```
+
+Then, in order to start it run this command:
+
+Windows:
+```
+env\Scripts\activate.bat
+```
+
+Mac/Linux:
+```
+source env/bin/activate
+```
+
 To install requirements/dependencies:
 
 ```setup
