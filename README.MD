@@ -13,6 +13,10 @@ This repository is our attempt at reproducing the experiments in [Learning Unsup
 
 Much of our code is sourced from [TRACE Github Repo](https://github.com/Addison-Weatherhead/TRACE) which is the original implementation of the experiments from this paper.
 
+## Descriptive Notebook
+
+For a more succinct overview of our project, we have created a Jupyter Notebook which highlights the main goals and findings of our experiments. The notebook will walk users through the process of our experiments and allow users to reproduce our experiments easily. The notebook can be found in the root directory in `Descriptive_Notebook_Group62.ipynb`. Alternatively, to directly see the results of the notebook, check out `Descriptive_Notebook_Group62.html`.
+
 ## Requirements
 
 From the repository folder, set up a virtual Python environment:
